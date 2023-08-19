@@ -34,7 +34,7 @@ public class Conta_Bancaria {
 		conta.atualizarDados();
 		conta.menu(entrada);
 		default:
-			break;
+		break;
 }
 		entrada.close();
 		
