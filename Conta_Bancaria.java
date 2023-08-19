@@ -31,7 +31,7 @@ public class Conta_Bancaria {
 		conta.menu(entrada);
 		break;
 		case 'n', 'N':
-			conta.atualizarDados();
+		conta.atualizarDados();
 		conta.menu(entrada);
 		default:
 			break;
